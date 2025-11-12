@@ -6,20 +6,20 @@ This project is a **comprehensive simulation management platform** designed to s
 
 ## **Features**
 
-- 🔍 **Dynamic Tracking System**: Search and filter simulations based on real-time status, allowing users to monitor active simulations and address issues instantly.
-- ⚙️ **Personalized Simulations**: Create and manage custom simulations by adjusting parameters to meet specific research needs.
-- 📊 **Real-Time Monitoring**: Gain real-time insights into simulation performance, enabling adjustments and resource allocation during runtime.
-- 📈 **Comprehensive Analysis**: Analyze simulation results with in-depth tools to generate valuable insights.
-- 🔗 **External Interface Integration**: Seamlessly integrates with external systems for running simulations and retrieving results, ensuring smooth interoperability.
+-  **Dynamic Tracking System**: Search and filter simulations based on real-time status, allowing users to monitor active simulations and address issues instantly.
+-  **Personalized Simulations**: Create and manage custom simulations by adjusting parameters to meet specific research needs.
+-  **Real-Time Monitoring**: Gain real-time insights into simulation performance, enabling adjustments and resource allocation during runtime.
+-  **Comprehensive Analysis**: Analyze simulation results with in-depth tools to generate valuable insights.
+-  **External Interface Integration**: Seamlessly integrates with external systems for running simulations and retrieving results, ensuring smooth interoperability.
 
 ---
 
 ## **Problem Addressed**
 
 Simulation systems are widely used across various research fields to study and model real-world phenomena in controlled environments. However, the **lack of comprehensive management systems** creates inefficiencies, including:
-- 🕒 Long experiment cycles due to manual simulation management.
-- 📉 Difficulty in tracking real-time performance and adjusting simulations on the go.
-- 🧩 Limited tools for in-depth analysis of simulation results.
+-  Long experiment cycles due to manual simulation management.
+-  Difficulty in tracking real-time performance and adjusting simulations on the go.
+-  Limited tools for in-depth analysis of simulation results.
 
 ---
 
@@ -32,16 +32,16 @@ Our platform automates essential parts of the simulation process, accelerates te
 ## **Technologies Used**
 
 - **Backend**:
-  - 🐍 **Python**: Primary language for backend logic.
-  - 🚀 **FastAPI**: Web framework for building the API.
-  - 🗄️ **MongoDB**: NoSQL database to manage simulation and user data.
+  -  **Python**: Primary language for backend logic.
+  -  **FastAPI**: Web framework for building the API.
+  -  **MongoDB**: NoSQL database to manage simulation and user data.
 - **Frontend**:
-  - 💻 **TypeScript**: For frontend development.
-  - ⚛️ **React**: Framework for creating interactive UIs.
-  - 🗃️ **Redux**: State management for consistent data flow.
+  -  **TypeScript**: For frontend development.
+  -  **React**: Framework for creating interactive UIs.
+     **Redux**: State management for consistent data flow.
 - **Integration**:
-  - 🔌 **External Interface**: Communicates with external systems to run simulations and retrieve results.
-  - 🐳 **Docker**: Manages the MongoDB instance.
+  -  **External Interface**: Communicates with external systems to run simulations and retrieve results.
+  -  **Docker**: Manages the MongoDB instance.
 
 ---
 
